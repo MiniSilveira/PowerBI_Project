@@ -44,7 +44,7 @@ Eficiência Logística: Tempo médio de trânsito (em dias).
 Análise Geográfica: Mapeamento das principais rotas e origens de mercadoria.
 
 🚀 Como Executar o Projeto
-Clonar este repositório: git clone https://github.com/teu-user/porto-figueira-analytics.git
+Clonar este repositório: [git clone https://github.com/teu-user/porto-figueira-analytics.git](https://github.com/MiniSilveira/PowerBI_Project.git)
 
 Configurar as credenciais da base de dados no ficheiro config.py (ou .env).
 
